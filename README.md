@@ -1,1 +1,1 @@
-# PracticeTestAutomation
+# Exercises from https://practicetestautomation.com/practice/
